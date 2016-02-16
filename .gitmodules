@@ -1,6 +1,3 @@
 [submodule "test/sass-spec"]
 	path = test/fixtures/spec
 	url = https://github.com/sass/sass-spec.git
-[submodule "src/libsass"]
-	path = src/libsass
-	url = git@github.com:notxarb/libsass.git
